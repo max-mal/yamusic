@@ -1,0 +1,115 @@
+{'ready': True, 'notify': False, 'data': {
+
+
+	'owner': {'uid': 503646255, 'login': 'yamusic-daily', 'name': 'yamusic-daily', 'display_name': None, 'full_name': None, 'sex': 'unknown', 'verified': False, 'regions': None}, 
+
+	'cover': {'uri': 'avatars.yandex.net/get-music-user-playlist/51766/qpb6mbLhJi39Dw/%%?1614632772513', 'items_uri': None, 'prefix': None, 'version': '1614632772513', 'custom': True, 'is_custom': None, 'copyright_name': None, 'copyright_cline': None, 'error': None, 'type_': 'pic', 'dir_': '/get-music-user-playlist/34120/pvg900XixWaHcr/'}, 
+	
+	'made_for': {'user_info': {'uid': 1130000046794358, 'login': 'max@my-pc.pw', 'name': 'max@my-pc.pw', 'display_name': None, 'full_name': None, 'sex': 'unknown', 'verified': False, 'regions': None}, 'case_forms': None},
+
+	'play_counter': {'value': 0, 'description': 'Слушайте плейлист, чтобы цифра на счётчике начала расти', 'updated': False}, 
+
+	'playlist_absence': None, 
+
+	'uid': 503646255, 
+
+	'kind': 134232250, 
+
+	'title': 'Плейлист дня', 
+
+	'track_count': 60, 
+
+	'revision': 0, 
+
+	'snapshot': 1, 
+
+	'visibility': 'public', 
+
+	'collective': False, 
+
+	'url_part': 'daily', 
+
+	'created': '2020-12-05T20:59:13+00:00', 
+
+	'modified': '2021-03-22T03:00:00+00:00', 
+
+	'available': True, 
+
+	'is_banner': False, 
+
+	'is_premiere': False, 
+
+	'duration_ms': 12096150, 
+
+	'og_image': 'avatars.yandex.net/get-music-user-playlist/51766/qpb6mbLhJi39Dw/%%?1614632772513', 
+
+	'og_title': 'Плейлист дня',
+	
+	'og_description': None, 
+
+	'image': None, 
+
+	'cover_without_text': {'uri': 'avatars.yandex.net/get-music-user-playlist/34120/pvg900XixWaHcr/%%?1564480657724', 'items_uri': None, 'prefix': None, 'version': '1564480657724', 'custom': True, 'is_custom': None, 'copyright_name': None, 'copyright_cline': None, 'error': None, 'type_': 'pic', 'dir_': '/get-music-user-playlist/34120/pvg900XixWaHcr/'}, 
+
+	'contest': None, 
+
+	'background_color': None, 
+
+	'text_color': None, 
+
+	'id_for_from': 'playlist_of_the_day', 
+
+	'dummy_description': None, 
+
+	'dummy_page_description': None, 
+
+	'dummy_cover': None, 
+
+	'dummy_rollover_cover': None, 
+
+	'og_data': None, 
+
+	'branding': None, 
+
+	'metrika_id': None, 
+
+	'coauthors': None, 
+
+	'top_artist': [], 
+
+	'recent_tracks': [], 
+
+	'tracks': [
+		{'timestamp': '2021-03-22T03:00:00+00:00', 'album_id': None, 'play_count': None, 'recent': None, 'chart': None, 'track': None, 'id_': 32947997}, 
+	], 
+
+	'prerolls': [], 
+
+	'likes_count': None, 
+
+	'animated_cover_uri': 'avatars.yandex.net/get-music-user-playlist/30088/qpb6mcSjC2S9cZ/%%', 
+
+	'description': 'Каждый день — новый. Каждый день — ваш!', 
+
+	'description_formatted': 'Каждый день — новый. Каждый день — ваш!', 
+
+	'ever_played': True, 
+
+	'similar_playlists': [], 
+
+	'last_owner_playlists': [], 
+
+	'generated_playlist_type': 'playlistOfTheDay', 
+
+	'playlist_uuid': '2250d2dc-d328-d85c-82a4-a6d477cea4a4', 
+
+	'ready': None, 
+
+	'is_for_from': None, 
+
+	'regions': None, 
+
+	'tags': [], 
+
+	'type_': None
+}, 'description': None, 'type_': 'playlistOfTheDay'}

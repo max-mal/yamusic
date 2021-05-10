@@ -1,0 +1,7 @@
+captcha.png
+token.txt
+loop
+*/*/__pycache__
+*/*/*/__pycache__
+__pycache__
+storage.db
